@@ -4841,3 +4841,28 @@
   width:57px;
   word-wrap:break-word;
 }
+#u143_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1080px;
+  height:438px;
+}
+#u143 {
+  border-width:0px;
+  position:absolute;
+  left:322px;
+  top:1131px;
+  width:1080px;
+  height:438px;
+}
+#u143_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
