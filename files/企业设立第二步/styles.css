@@ -920,18 +920,43 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1136px;
+  width:1135px;
   height:151px;
 }
 #u470 {
   border-width:0px;
   position:absolute;
-  left:257px;
+  left:258px;
   top:414px;
-  width:1136px;
+  width:1135px;
   height:151px;
 }
 #u470_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u471_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:52px;
+  height:18px;
+}
+#u471 {
+  border-width:0px;
+  position:absolute;
+  left:368px;
+  top:529px;
+  width:52px;
+  height:18px;
+}
+#u471_text {
   border-width:0px;
   position:absolute;
   left:0px;
