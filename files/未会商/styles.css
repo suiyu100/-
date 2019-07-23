@@ -270,7 +270,7 @@
 #u1137 {
   border-width:0px;
   position:absolute;
-  left:610px;
+  left:284px;
   top:955px;
   width:231px;
   height:32px;
@@ -301,7 +301,7 @@
 #u1138 {
   border-width:0px;
   position:absolute;
-  left:825px;
+  left:499px;
   top:965px;
   width:14px;
   height:12px;
@@ -349,7 +349,7 @@
 #u1139 {
   border-width:0px;
   position:absolute;
-  left:525px;
+  left:199px;
   top:955px;
   width:85px;
   height:35px;
@@ -393,7 +393,7 @@
 #u1140 {
   border-width:0px;
   position:absolute;
-  left:610px;
+  left:284px;
   top:987px;
   width:231px;
   height:24px;
@@ -477,8 +477,8 @@
 #u1144 {
   border-width:0px;
   position:absolute;
-  left:199px;
-  top:955px;
+  left:869px;
+  top:899px;
   width:57px;
   height:35px;
   font-family:'PingFang-SC-Regular', 'PingFang SC';
@@ -522,8 +522,8 @@
 #u1145 {
   border-width:0px;
   position:absolute;
-  left:256px;
-  top:955px;
+  left:926px;
+  top:899px;
   width:19px;
   height:35px;
   font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
@@ -570,8 +570,8 @@
 #u1146 {
   border-width:0px;
   position:absolute;
-  left:275px;
-  top:955px;
+  left:945px;
+  top:899px;
   width:240px;
   height:32px;
   font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
@@ -614,8 +614,8 @@
 #u1147 {
   border-width:0px;
   position:absolute;
-  left:275px;
-  top:987px;
+  left:945px;
+  top:931px;
   width:240px;
   height:24px;
   font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
@@ -1250,8 +1250,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:42px;
-  height:23px;
+  width:181px;
+  height:35px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   border:none;
@@ -1263,10 +1263,10 @@
 #u1167 {
   border-width:0px;
   position:absolute;
-  left:1383px;
+  left:1244px;
   top:165px;
-  width:42px;
-  height:23px;
+  width:181px;
+  height:35px;
 }
 #u1167_text {
   border-width:0px;
@@ -2858,7 +2858,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:103px;
+  width:181px;
   height:400px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -2887,7 +2887,7 @@
   position:absolute;
   left:936px;
   top:263px;
-  width:103px;
+  width:181px;
   height:400px;
   font-family:'PingFang-SC-Regular', 'PingFang SC';
   font-weight:400;
@@ -2902,7 +2902,7 @@
   position:absolute;
   left:16px;
   top:0px;
-  width:71px;
+  width:149px;
   white-space:nowrap;
 }
 #u1209_div {
@@ -3434,7 +3434,7 @@
 #u1227 {
   border-width:0px;
   position:absolute;
-  left:1260px;
+  left:851px;
   top:165px;
   width:151px;
   height:29px;
@@ -3821,184 +3821,6 @@
   line-height:22px;
 }
 #u1238_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:231px;
-  word-wrap:break-word;
-}
-#u1239 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  height:0px;
-}
-#u1240_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:231px;
-  height:32px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  box-sizing:border-box;
-  border-width:1px;
-  border-style:solid;
-  border-color:rgba(217, 217, 217, 1);
-  border-radius:4px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFang-SC-Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-  font-size:14px;
-  color:rgba(0, 0, 0, 0.847058823529412);
-  text-align:left;
-  line-height:22px;
-}
-#u1240 {
-  border-width:0px;
-  position:absolute;
-  left:936px;
-  top:899px;
-  width:231px;
-  height:32px;
-  font-family:'PingFang-SC-Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-  font-size:14px;
-  color:rgba(0, 0, 0, 0.847058823529412);
-  text-align:left;
-  line-height:22px;
-}
-#u1240_text {
-  border-width:0px;
-  position:absolute;
-  left:12px;
-  top:5px;
-  width:211px;
-  word-wrap:break-word;
-}
-#u1241_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:14px;
-  height:12px;
-}
-#u1241 {
-  border-width:0px;
-  position:absolute;
-  left:1151px;
-  top:909px;
-  width:14px;
-  height:12px;
-  -webkit-transform:rotate(90deg);
-  -moz-transform:rotate(90deg);
-  -ms-transform:rotate(90deg);
-  transform:rotate(90deg);
-  opacity:0.449999988079071;
-  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
-  font-weight:400;
-  font-style:normal;
-  text-align:left;
-}
-#u1241_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u1242_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:71px;
-  height:35px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'PingFang-SC-Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-  font-size:14px;
-  color:rgba(0, 0, 0, 0.847058823529412);
-  text-align:right;
-  line-height:22px;
-}
-#u1242 {
-  border-width:0px;
-  position:absolute;
-  left:865px;
-  top:899px;
-  width:71px;
-  height:35px;
-  font-family:'PingFang-SC-Regular', 'PingFang SC';
-  font-weight:400;
-  font-style:normal;
-  font-size:14px;
-  color:rgba(0, 0, 0, 0.847058823529412);
-  text-align:right;
-  line-height:22px;
-}
-#u1242_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:5px;
-  width:71px;
-  white-space:nowrap;
-}
-#u1243_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:231px;
-  height:24px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
-  font-weight:400;
-  font-style:normal;
-  font-size:14px;
-  color:rgba(0, 0, 0, 0.427450980392157);
-  line-height:22px;
-}
-#u1243 {
-  border-width:0px;
-  position:absolute;
-  left:936px;
-  top:931px;
-  width:231px;
-  height:24px;
-  font-family:'MicrosoftTaiLe', 'Microsoft Tai Le';
-  font-weight:400;
-  font-style:normal;
-  font-size:14px;
-  color:rgba(0, 0, 0, 0.427450980392157);
-  line-height:22px;
-}
-#u1243_text {
   border-width:0px;
   position:absolute;
   left:0px;
