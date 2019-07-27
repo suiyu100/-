@@ -7,6 +7,8 @@
   text-align:center;
   line-height:normal;
 }
+.shape {
+}
 .image {
 }
 .heading_1 {
@@ -55,10 +57,14 @@
 }
 .table_cell {
 }
+.connector {
+}
 .marker {
   color:#FFFFFF;
 }
 .flow_shape {
+}
+.table {
 }
 .paragraph1 {
   text-align:left;
@@ -85,7 +91,7 @@
 }
 .horizontal_line {
 }
-.shape {
+.shape1 {
 }
 .box_1 {
 }
